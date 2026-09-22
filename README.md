@@ -204,11 +204,4 @@ If you would like to contribute to the development of this project, please follo
   <img src="https://repobeats.axiom.co/api/embed/1897bc523b54b43aefb19c65195f32377f8aab85.svg" alt="Repo analytics" width="600">
 </a>
 
----
 
-## 📄 License
-
-```
-MIT License
-Copyright (c) 2026 Hoàng Anh Tiến
-```
